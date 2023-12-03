@@ -1,0 +1,5 @@
+task.c:6:6:task_display1	8	static
+task.c:9:6:task_display2	8	static
+task.c:12:6:task_display3	8	static
+task.c:15:6:task_display4	8	static
+task.c:18:6:task_display5	8	static
